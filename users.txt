@@ -1,0 +1,6 @@
+pelanggan;123
+akun baru;123
+akun2;123
+akun1;123
+akun1;123
+1;1
